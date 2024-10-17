@@ -4,5 +4,9 @@
     { "type": "fix", "section": "### Fixed" },
     { "type": "change", "section": "### Changed" }
   ],
-  "includeUnreleased": true
+  "includeUnreleased": true,
+  "release-type": "python",
+  "bump-minor-pre-major": true,
+  "include-v-in-tag": false,
+  "version-file": "src/release_please_demo/__init__.py"
 }
