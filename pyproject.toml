@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools"]
+
+[project]
+name = "release_please_demo"
+authors = [
+    {name = "Blue Brain Project, EPFL"},
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+namespaces = false
