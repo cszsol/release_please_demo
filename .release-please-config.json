@@ -1,0 +1,8 @@
+{
+  "changelogSections": [
+    { "type": "add", "section": "### Added" },
+    { "type": "fix", "section": "### Fixed" },
+    { "type": "change", "section": "### Changed" }
+  ],
+  "includeUnreleased": true
+}
