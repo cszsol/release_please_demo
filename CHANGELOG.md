@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/cszsol/release_please_demo/compare/v1.0.1...v1.1.0) (2024-10-18)
+
+
+### Features
+
+* Something ([2545690](https://github.com/cszsol/release_please_demo/commit/2545690edfce1f8493575570042e20bd1ab57ea2))
+
 ## [1.0.1](https://github.com/cszsol/release_please_demo/compare/v1.0.0...v1.0.1) (2024-10-18)
 
 
