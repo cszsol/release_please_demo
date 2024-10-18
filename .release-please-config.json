@@ -1,6 +1,6 @@
 {
   "changelogSections": [
-    { "type": "feat", "section": "### Added" },
+    { "type": "add", "section": "### Added" },
     { "type": "fix", "section": "### Fixed" },
     { "type": "change", "section": "### Changed" }
   ],
