@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/cszsol/release_please_demo/compare/v1.0.0...v1.0.1) (2024-10-18)
+
+
+### Bug Fixes
+
+* Removed LICENSE file. ([24772ea](https://github.com/cszsol/release_please_demo/commit/24772eaba5f8346703e131f97abc9ea0c6b38742))
+
 ## 1.0.0 (2024-10-17)
 
 
